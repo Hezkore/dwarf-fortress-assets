@@ -26,3 +26,6 @@ GitClone *(recommended)* or download this repository.
 	* Remove your **'data/init/colors.txt'** file
 	
 	* Symlink *(recommended)* or extract **'colors.txt'** to **'data/init/colors.txt'**
+
+## New versions / updating
+If you've GitCloned this repository and symlinked the files, then all you have to do is `Git Pull` to download the newest versions of the graphics and colors.
