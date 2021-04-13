@@ -1,7 +1,7 @@
 # Dwarf Fortress Assets
 
 ## Tileset
-**'hezkore.png'** is a 16x16 tilset based on [Kenran](http://dwarffortresswiki.org/index.php/File:Kenran.png), [Nice curses](http://dwarffortresswiki.org/index.php/File:Nice_curses_12x12.png) and [Yayo tunur](http://dwarffortresswiki.org/index.php/File:Yayo_tunur_1040x325.png) with my own edits and additions.
+**'hezkore.png'** is a 16x16 tilset based on [Kenran](http://dwarffortresswiki.org/index.php/File:Kenran.png), [Nice curses](http://dwarffortresswiki.org/index.php/File:Nice_curses_12x12.png) with my own edits and additions.
 
 ![tileset preview](https://github.com/Hezkore/Dwarf-Fortress-Assets/blob/master/hezkore.png?raw=true)
 
