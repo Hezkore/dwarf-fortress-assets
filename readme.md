@@ -39,11 +39,11 @@ GitClone *(recommended)* or download this repository.
 	* Remove your **'data/art/font.ttf'** file
 
 	* Symlink *(recommended)* or extract **'font.ttf'** to **'data/art/font.ttf'**
-		* Alternativly, rename **'font_alt.ttf'** to **'font.ttf'**, if you like the look of the alternative font.
+		* Alternativly, rename **'font_alt.ttf'** to **'font.ttf'**, if you like the look of the alternative font
 	
 	* Open your **'data/init/init.txt'** file
-		* Change `[TRUETYPE:24]` to `[TRUETYPE:YES]` to force the use of ttf fonts.\
-		You can also press F12 in-game to toggle between the bitmap and ttf font.
+		* Change `[TRUETYPE:24]` to `[TRUETYPE:YES]` to force the use of ttf fonts\
+		You can also press F12 in-game to toggle between the bitmap and ttf font
 
 ---
 
