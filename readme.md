@@ -1,7 +1,8 @@
 # Dwarf Fortress Assets
 
 ## Tileset
-**'hezkore.png'** is a 16x16 tilset based on [Kenran](http://dwarffortresswiki.org/index.php/File:Kenran.png) and [Nice curses](http://dwarffortresswiki.org/index.php/File:Nice_curses_12x12.png) with my own edits and additions.
+**'hezkore.png'** is a 16x16 tilset based on [Kenran](http://dwarffortresswiki.org/index.php/File:Kenran.png) and [Nice curses](http://dwarffortresswiki.org/index.php/File:Nice_curses_12x12.png) with my own edits and additions.\
+The most common items has object graphics and does not replace the bitmap font, keeping all text readable.
 
 ![tileset preview](https://github.com/Hezkore/Dwarf-Fortress-Assets/blob/master/hezkore.png?raw=true)
 
