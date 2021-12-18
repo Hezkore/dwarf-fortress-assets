@@ -12,20 +12,20 @@ The colors are a bit more washed out than the original colors, but still provide
 
 ## Font
 **'font.ttf'** is **'PxPlus_ToshibaSat_9x16.ttf'**.\
-**'font_alt.ttf'** is  **PxPlus_ToshibaTxL1_8x16.ttf'**.\
+**'font_alt.ttf'** is  **'PxPlus_ToshibaTxL1_8x16.ttf'**.\
 Both from [oldschool-pc-fonts](https://int10h.org/oldschool-pc-fonts/fontlist/).
 
 ---
 
 ## How do I use this?
-GitClone *(recommended)* or download this repository.
+Git clone *(recommended)* or download this repository.
 * Tilset
 	* Symlink *(recommended)* or extract **'hezkore.png'** to your **'data/art/'** folder
 	
 	* Open your **'data/init/init.txt'** file
 		* If `[GRAPHICS:NO]` then:
 			* Change `[FONT:curses_640x300.png]` to `[FONT:hezkore.png]`
-			* Change `[FULLFONT:curses_800x600.png]` to `[FULLFONT:hezkore.png]
+			* Change `[FULLFONT:curses_800x600.png]` to `[FULLFONT:hezkore.png]`
 		* If `[GRAPHICS:YES]` then:
 			* Change `[GRAPHICS_FONT:curses_square_16x16.png]` to `[GRAPHICS_FONT:hezkore.png]`
 			* Change `[GRAPHICS_FULLFONT:curses_square_16x16.png]` to `[GRAPHICS_FULLFONT:hezkore.png]`
@@ -49,4 +49,4 @@ GitClone *(recommended)* or download this repository.
 ---
 
 ## New versions / updating
-If you've GitCloned this repository and symlinked the files, then all you have to do is `Git Pull` to download the newest versions of the graphics and colors.
+If you Git clone this repository and symlinked the files, then all you have to do is call `Git Pull` to download the newest versions of the graphics and colors.
